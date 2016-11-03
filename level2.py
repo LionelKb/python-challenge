@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 
-with open("mess.txt",'r') as f:
+with open("mess-level2.txt",'r') as f:
   mess = f.read()
 result = ""
 counts = {}
