@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 
 with open("mess-level2.txt",'r') as f:
   mess = f.read()

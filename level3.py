@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 import re
 
 with open("mess-level3.txt","r") as f:
